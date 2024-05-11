@@ -1,3 +1,6 @@
+<h1 align="center">
+  Hi there 👋
+</h1>
 
 <p style="text-align:center">I am Lingyu Zhou. I manipulate data using computers.</p>
 
