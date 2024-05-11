@@ -1,5 +1,6 @@
-### Hi there 👋
-I am Lingyu Zhou. I manipulate data using computers.
+### <p style="align-text:center">Hi there 👋</p>
+<p style="align-text:center">I am Lingyu Zhou. I manipulate data using computers.</p>
+
 
 <!--
 
