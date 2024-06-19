@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
-I am Lingyu Zhou. I manipulate data using computers
+I am Lingyu Zhou. 
+- I am a student at [Cornell University](https://cornell.edu)
+- I love creating automation using software engineering.
 
 
 
