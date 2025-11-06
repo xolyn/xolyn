@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">I am Lingyu Zhou. 
- <br>
+ </p>
+
+<p align="center">
  <a href="https://zhoulingyu.net"><img src="https://static.zly.vg/img/learnmore.png" /></a>
  </p>
 
